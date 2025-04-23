@@ -1,3 +1,4 @@
 # Simulador PowerTech
 
-App para simular velocidad por marcha, calcular puntos de cambio óptimos y visualizar gráficas de RPM vs Velocidad.
+Simulador de velocidad por marcha para vehículos 4x4 con hasta 6 cambios.
+No incluye cálculos de recomendaciones ni análisis adicionales.
