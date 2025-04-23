@@ -1,3 +1,7 @@
 # Simulador PowerTech
 
-Simulador de velocidad por marcha con parámetros técnicos editables, hasta 6 marchas, tabla y gráfica automática.
+App para simular velocidades por marcha en vehículos.
+- Hasta 6 marchas
+- Entrada editable de parámetros técnicos
+- Tabla de velocidades
+- Gráfica limpia sin análisis adicional
